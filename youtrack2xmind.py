@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 """
-    Script for generation mindmap for XMind tool from YouTrack TRAR project
+    Script for generation mindmap for XMind tool from YouTrack
 """
 
 __author__ = "Oleksandr Pylkevych"
